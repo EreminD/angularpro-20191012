@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.930CC265-C937-4AF1-A793-CD67AFA86D17</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>930CC265-C937-4AF1-A793-CD67AFA86D17</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPassword</key>
+			<string>2lwYKgdkZO2mRpFf</string>
+			<key>ProxyServer</key>
+			<string>147.45.187.127</string>
+			<key>ProxyServerPort</key>
+			<integer>33768</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>ProxyUsername</key>
+			<string>proxy_user</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>TvOSProxy</string>
+	<key>PayloadIdentifier</key>
+	<string>mbp.F8320700-7A7A-4FA9-BBFF-538B033242B4</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>045AF6B5-D1F7-4808-9FA2-BB1CC278D27E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
